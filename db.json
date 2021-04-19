@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Tarta de cumpleaños",
+      "categoryId": 1,
+      "image": ""
+    },
+    {
+      "id": 2,
+      "title": "BRIOCH CALABAZA MANDARINA",
+      "categoryId": 1,
+      "image": ""
+    },
+    {
+      "id": 3,
+      "title": "BRIOCH NUECES PASAS",
+      "categoryId": 2,
+      "image": ""
+    },
+    {
+      "id": 4,
+      "title": "MINI CROISSANT SALADO",
+      "categoryId": 1,
+      "image": ""
+    },
+    {
+      "id": 5,
+      "title": "PAN GALLEGO",
+      "categoryId": 2,
+      "image": ""
+    },
+    {
+      "id": 6,
+      "title": "PAN MINI BAGUET",
+      "categoryId": 3,
+      "image": ""
+    },
+    {
+      "id": 6,
+      "title": "PAN MINI BAGUET",
+      "categoryId": 3,
+      "image": ""
+    }
+  ],
+  "orders": [
+    {
+      "products": [
+        {
+          "item": {
+            "id": 2,
+            "title": "BRIOCH CALABAZA MANDARINA",
+            "quantity": 1,
+            "description": ""
+          }
+        },
+        {
+          "item": {
+            "id": 3,
+            "title": "BRIOCH NUECES PASAS",
+            "quantity": 1,
+            "description": ""
+          }
+        },
+        {
+          "item": {
+            "id": 1,
+            "title": "Tarta de cumpleaños",
+            "quantity": 1,
+            "description": "Sin gluten"
+          }
+        }
+      ],
+      "id": 1
+    },
+    {
+      "products": [
+        {
+          "item": {
+            "id": 6,
+            "title": "PAN MINI BAGUET",
+            "quantity": 15,
+            "description": ""
+          }
+        }
+      ],
+      "id": 2
+    },
+    {
+      "products": [
+        {
+          "item": {
+            "id": 3,
+            "title": "BRIOCH NUECES PASAS",
+            "quantity": 1,
+            "description": ""
+          }
+        },
+        {
+          "item": {
+            "id": 6,
+            "title": "PAN MINI BAGUET",
+            "quantity": 1,
+            "description": ""
+          }
+        },
+        {
+          "item": {
+            "id": 4,
+            "title": "MINI CROISSANT SALADO",
+            "quantity": 3,
+            "description": ""
+          }
+        }
+      ],
+      "id": 3
+    },
+    {
+      "products": [
+        {
+          "item": {
+            "id": 1,
+            "title": "Tarta de cumpleaños",
+            "quantity": 1,
+            "description": ""
+          }
+        }
+      ],
+      "id": 4
+    },
+    {
+      "products": [
+        {
+          "item": {
+            "id": 6,
+            "title": "PAN MINI BAGUET",
+            "quantity": 5,
+            "description": ""
+          }
+        }
+      ],
+      "id": 5
+    },
+    {
+      "products": [
+        {
+          "item": {
+            "id": 1,
+            "title": "Tarta de cumpleaños",
+            "quantity": 1,
+            "description": ""
+          }
+        },
+        {
+          "item": {
+            "id": 2,
+            "title": "BRIOCH CALABAZA MANDARINA",
+            "quantity": 1,
+            "description": ""
+          }
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "Categoria 1"
+    },
+    {
+      "id": 2,
+      "title": "Categoria 2"
+    },
+    {
+      "id": 3,
+      "title": "Categoria 3"
+    }
+  ]
+}
