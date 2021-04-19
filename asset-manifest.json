@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cArlitXs/monpla/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/cArlitXs/monpla/static/js/main.6f5ae643.chunk.js",
+    "main.js.map": "/cArlitXs/monpla/static/js/main.6f5ae643.chunk.js.map",
+    "runtime-main.js": "/cArlitXs/monpla/static/js/runtime-main.7fdbfd17.js",
+    "runtime-main.js.map": "/cArlitXs/monpla/static/js/runtime-main.7fdbfd17.js.map",
+    "static/css/2.a6952c59.chunk.css": "/cArlitXs/monpla/static/css/2.a6952c59.chunk.css",
+    "static/js/2.38e6ee86.chunk.js": "/cArlitXs/monpla/static/js/2.38e6ee86.chunk.js",
+    "static/js/2.38e6ee86.chunk.js.map": "/cArlitXs/monpla/static/js/2.38e6ee86.chunk.js.map",
+    "index.html": "/cArlitXs/monpla/index.html",
+    "static/css/2.a6952c59.chunk.css.map": "/cArlitXs/monpla/static/css/2.a6952c59.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/cArlitXs/monpla/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.38e6ee86.chunk.js.LICENSE.txt": "/cArlitXs/monpla/static/js/2.38e6ee86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fdbfd17.js",
+    "static/css/2.a6952c59.chunk.css",
+    "static/js/2.38e6ee86.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6f5ae643.chunk.js"
+  ]
+}
