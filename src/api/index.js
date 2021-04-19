@@ -1,7 +1,11 @@
 import { create } from "apisauce";
 
+// eslint-disable-next-line no-unused-vars
+const dev = "http://localhost:3004";
+const prod = "https://my-json-server.typicode.com/cArlitXs/monpla";
+
 const api = create({
-  baseURL: "http://localhost:3004",
+  baseURL: prod,
 });
 
 const products = {
